@@ -32,9 +32,10 @@ draw comparisons between locus length or number of variable sites,
 for example. I find it useful to quantify information content of
 sequence capture loci in various ways, including this method.
 
-Written for Python 2.7.3
+Written for Python 2.7
 
 External Dependencies: ete2, NUMPY
+
 -Install Python ETE2 toolkit (information at http://etetoolkit.org) 
  
  
