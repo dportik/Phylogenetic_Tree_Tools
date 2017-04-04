@@ -28,7 +28,7 @@ contig5  274             163              0.59
 
 
 The index can be used to find the most 'informative' of your loci or
-the most strongly supported trees. It can also be used todraw comparisons 
+the most strongly supported trees. It can also be used to draw comparisons 
 between locus length or number of variable sites, for example. 
 
 Written for Python 2.7
