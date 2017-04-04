@@ -4,7 +4,7 @@ usage: python RF_calculator.py [full path to directory of trees] [full path to t
 
 example:
 
-'python RF_calculator.py user/bin/Tree_Files user/bin/best_trees/super_awesome_tree.tre'
+`python RF_calculator.py user/bin/Tree_Files user/bin/best_trees/super_awesome_tree.tre`
 
 
 Outputs are written to the '/Trees' directory pointed to via command line.
