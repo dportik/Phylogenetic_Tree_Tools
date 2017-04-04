@@ -27,10 +27,9 @@ contig4  268             189              0.71
 contig5  274             163              0.59
 
 
-The index can be used to find the most informative of your loci, or
-draw comparisons between locus length or number of variable sites, 
-for example. I find it useful to quantify information content of
-sequence capture loci in various ways, including this method.
+The index can be used to find the most 'informative' of your loci or
+the most strongly supported trees. It can also be used todraw comparisons 
+between locus length or number of variable sites, for example. 
 
 Written for Python 2.7
 
