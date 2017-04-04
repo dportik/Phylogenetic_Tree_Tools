@@ -4,7 +4,7 @@ usage: python tree_pruner.py [directory of trees] [taxa file]
 
 example:
 
-'python dan/scripts/tree_pruner.py dan/tree_bin dan/taxon_set1.txt'
+`python dan/scripts/tree_pruner.py dan/tree_bin dan/taxon_set1.txt`
 
 taxa file format:
 
