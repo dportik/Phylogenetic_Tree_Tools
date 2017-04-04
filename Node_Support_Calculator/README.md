@@ -21,7 +21,9 @@ identical. The output file will be tab-delimited and look like this:
 
 
 Locus    internal_nodes  supported_nodes  node_support_index
+
 contig4  268             189              0.71
+
 contig5  274             163              0.59
 
 
