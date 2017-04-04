@@ -1,3 +1,5 @@
+# tree_pruner.py
+
 usage: python tree_pruner.py [directory of trees] [taxa file]
 
 example:
