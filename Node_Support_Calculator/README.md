@@ -4,7 +4,7 @@ usage: python Node_Support_Index_Calculator.py [full path to directory of trees]
 
 example:
 
-'python Node_Support_Index_Calculator.py user/bin/TreeFiles'
+`python Node_Support_Index_Calculator.py user/bin/TreeFiles`
 
 Will calculate how many nodes of the total internal nodes of a bootstrapped
 tree are above 70% support. I call this the Node Support Index, which is on
