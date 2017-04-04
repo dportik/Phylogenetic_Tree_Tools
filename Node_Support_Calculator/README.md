@@ -7,7 +7,7 @@ example:
 `python Node_Support_Index_Calculator.py user/bin/TreeFiles`
 
 Will calculate how many nodes of the total internal nodes of a bootstrapped
-tree are above 70% support. I call this the Node Support Index, which is on
+tree are above 70% support. This is the Node Support Index, which is on
 a scale of 0 to 1. An index of 1 indicates all nodes are above 70%, whereas
 a score of 0.5 indicates only half the total nodes are above 70% support.
 
