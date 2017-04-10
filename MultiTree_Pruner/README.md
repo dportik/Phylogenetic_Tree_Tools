@@ -7,12 +7,11 @@ example:
 `python dan/scripts/tree_pruner.py dan/tree_bin dan/taxon_set1.txt`
 
 taxa file format:
-
+```
 Name1
-
 Name2
-
 Name3
+```
 
 Removes tips listed in taxa file from all tree files in the directory.
 
