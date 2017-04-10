@@ -20,12 +20,12 @@ the name to label the different loci in the output, so make sure these aren't
 identical. The output file will be tab-delimited and look like this:
 
 
-Locus    internal_nodes  supported_nodes  node_support_index
+`Locus    internal_nodes  supported_nodes  node_support_index
 
 contig4  268             189              0.71
 
 contig5  274             163              0.59
-
+`
 
 The index can be used to find the most 'informative' of your loci or
 the most strongly supported trees. It can also be used to draw comparisons 
