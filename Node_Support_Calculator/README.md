@@ -24,8 +24,7 @@ identical. The output file will be tab-delimited and look like this:
 
 contig4  268             189              0.71
 
-contig5  274             163              0.59
-`
+contig5  274             163              0.59`
 
 The index can be used to find the most 'informative' of your loci or
 the most strongly supported trees. It can also be used to draw comparisons 
