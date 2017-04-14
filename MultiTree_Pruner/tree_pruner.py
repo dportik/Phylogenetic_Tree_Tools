@@ -15,6 +15,8 @@ Name3
 
 Removes tips listed in taxa file from all tree files in the directory.
 
+NOTE - ete only supports NEWICK format trees, so a nexus tree file will not work here!
+
 Check outputs in 'Pruned_Trees/' directory.
 
 ######################################################
@@ -51,6 +53,7 @@ for line in fh_taxa:
     taxon = line.strip()
     prune_taxa.add(taxon)
 fh_taxa.close()
+print '\n',"Taxa to trim = {}".format(prune_taxa)
 
 
 #start trying to open trees, prune   
@@ -73,7 +76,8 @@ for filetype in os.listdir('.'):
         
             
     except:
-        pass
+    	pass
+        print "{} doesn't appear to be a tree file".format(filetype), '\n'
 
 for filetype2 in os.listdir('.'):
     if filetype2.startswith('Pruned_'):
