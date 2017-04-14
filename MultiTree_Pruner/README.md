@@ -15,6 +15,8 @@ Name3
 
 Removes tips listed in taxa file from all tree files in the directory.
 
+NOTE - ete only supports NEWICK format trees, so a nexus tree file will not work here!
+
 Check outputs in 'Pruned_Trees/' directory.
 
 
