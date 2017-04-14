@@ -77,7 +77,7 @@ for filetype in os.listdir('.'):
             
     except:
     	pass
-        print "{} doesn't appear to be a tree file".format(filetype), '\n'
+        print "{} doesn't appear to be a newick format tree file".format(filetype), '\n'
 
 for filetype2 in os.listdir('.'):
     if filetype2.startswith('Pruned_'):
