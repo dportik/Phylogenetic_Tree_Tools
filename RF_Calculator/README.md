@@ -56,9 +56,12 @@ External Dependencies: ete2, NUMPY
 -Install Python ETE2 toolkit (information at http://etetoolkit.org) 
  
  
-# Dan Portik
+**Contact:**
 
-daniel.portik@uta.edu
+Daniel Portik, PhD
 
-February 2015
+Postdoctoral Researcher
 
+University of Arizona
+
+daniel.portik@gmail.com

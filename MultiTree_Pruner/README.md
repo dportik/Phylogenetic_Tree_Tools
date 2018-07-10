@@ -29,8 +29,13 @@ DEPENDENCIES:
   
 Written for Python 2.7
 
-# Dan Portik
 
-daniel.portik@uta.edu
+**Contact:**
 
-September 2015
+Daniel Portik, PhD
+
+Postdoctoral Researcher
+
+University of Arizona
+
+daniel.portik@gmail.com
